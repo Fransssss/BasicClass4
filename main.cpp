@@ -1,3 +1,9 @@
+// Fransiskus Agapa
+// 8/22/22
+
+// =============
+// user input data of book purchase 
+// =============
 
 #include <iostream>
 #include "Bookstore.h"
