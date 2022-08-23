@@ -1,5 +1,5 @@
 //
-// Created by XaveF on 8/22/2022.
+// Created by Fransiskus Agapa on 8/22/2022.
 //
 
 #ifndef BASICCLASS4_VALIDATENUMBER_H
