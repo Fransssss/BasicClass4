@@ -1,5 +1,7 @@
 // Fransiskus Agapa
 // 8/22/22
+// Practices make improvement - Have Fun !
+// :)
 
 // =============
 // user input data of book purchase 
@@ -50,7 +52,7 @@ int main()
             // year
             cout << "Input the year of publishing: ";
             cin >> bookYear;
-            validNumber = ValidateNumber(bookYear);      // make sure only digit
+            validNumber = ValidateNumber(bookYear);              // make sure only digit
             if (validNumber)
             {
                 book.SetYear(stoi(bookYear));
